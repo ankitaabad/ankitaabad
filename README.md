@@ -10,15 +10,7 @@ Currently building developer platforms at [Globalization Partners](https://www.g
 
 - 🛠️ **[zipup](https://github.com/ankitaabad/zipup)** — Open-source personal cloud for JavaScript developers (OpenResty, Docker, WireGuard VPN, Valkey, VictoriaLogs)
 - 🤖 **[skills-symlink](https://github.com/ankitaabad/skills-symlink)** — Central skills registry for AI coding agents like opencode and Claude Code
-- ⚡ **[request_trimmer](https://github.com/ankitaabad/request_trimmer)** — Lightweight Express middleware · **100k+ npm downloads**
 
-### 🏆 Recent highlights
-
-- 🥇 **1st prize** — Predictive Analytics Challenge (Invesco, 24-hour hackathon)
-- 🏅 **AWS Community Builder**
-- 📜 **AWS Certified Solutions Architect — Associate**
-- 🏆 **1st place** — Enigma, zonal round of Techfest (IIT Bombay)
-- 🎓 **99.98 percentile** — Net/JRF
 
 ### ✍️ Writing & talks
 
