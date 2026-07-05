@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi, I'm Ankit 👋
+
+**Software Engineer** specializing in **serverless architectures, TypeScript backends, and developer tooling**.
+
+Currently building developer platforms at [Globalization Partners](https://www.globalization-partners.com/) — previously at [LoginRadius](https://www.loginradius.com/) and [Antstack](https://www.antstack.com/).
+
+---
+
+### 🚀 What I'm working on
+
+- 🛠️ **[zipup](https://github.com/ankitaabad/zipup)** — Open-source personal cloud for JavaScript developers (OpenResty, Docker, WireGuard VPN, Valkey, VictoriaLogs)
+- 🤖 **[skills-symlink](https://github.com/ankitaabad/skills-symlink)** — Central skills registry for AI coding agents like opencode and Claude Code
+- ⚡ **[request_trimmer](https://github.com/ankitaabad/request_trimmer)** — Lightweight Express middleware · **100k+ npm downloads**
+
+### 🏆 Recent highlights
+
+- 🥇 **1st prize** — Predictive Analytics Challenge (Invesco, 24-hour hackathon)
+- 🏅 **AWS Community Builder**
+- 📜 **AWS Certified Solutions Architect — Associate**
+- 🏆 **1st place** — Enigma, zonal round of Techfest (IIT Bombay)
+- 🎓 **99.98 percentile** — Net/JRF
+
+### ✍️ Writing & talks
+
+I write about serverless, AWS, and developer tools.
+
+- 📺 [YouTube](https://www.youtube.com/@ankit8268) — tutorials, talks, and project demos
+- 📝 [Medium](https://medium.com/@ankit-aabad) — long-form articles
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-aabad/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ankit8268)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankit-aabad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitaabad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankit.aabad1@gmail.com)
+
+---
+
+<sub>📫 Open to interesting conversations about serverless, AI-augmented dev workflows, and developer tooling.</sub>
 
 <!--
-**ankitaabad/ankitaabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there 👋 — this is the new profile README.
+Replace this entire file in https://github.com/ankitaabad/ankitaabad
 -->
