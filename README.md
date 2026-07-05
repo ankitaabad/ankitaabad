@@ -2,15 +2,17 @@
 
 **Software Engineer** specializing in **serverless architectures, TypeScript backends, and developer tooling**.
 
-Currently building developer platforms at [Globalization Partners](https://www.globalization-partners.com/) — previously at [LoginRadius](https://www.loginradius.com/) and [Antstack](https://www.antstack.com/).
+Currently building at [Globalization Partners](https://www.globalization-partners.com/) — previously at [LoginRadius](https://www.loginradius.com/) and [Antstack](https://www.antstack.com/).
 
 ---
 
-### 🚀 What I'm working on
+### 🛠️ Open source
 
-- 🛠️ **[zipup](https://github.com/ankitaabad/zipup)** — Open-source personal cloud for JavaScript developers (OpenResty, Docker, WireGuard VPN, Valkey, VictoriaLogs)
+- ☁️ **[zipup](https://github.com/ankitaabad/zipup)** — Open-source personal cloud for JavaScript developers (OpenResty, Docker, WireGuard VPN, Valkey, VictoriaLogs)
 - 🤖 **[skills-symlink](https://github.com/ankitaabad/skills-symlink)** — Central skills registry for AI coding agents like opencode and Claude Code
-
+- ⚡ **[request_trimmer](https://github.com/ankitaabad/request_trimmer)** — Lightweight Express middleware · **100k+ npm downloads**
+- 🧭 **[ts-rest-switch](https://github.com/ankitaabad/ts-rest-switch)** — VSCode extension to jump between API contracts and handlers in ts-rest apps
+- 🗄️ **[DynamoDB Data Browser](https://github.com/ankitaabad/DynamoDataBrowser)** — Local DynamoDB GUI with advanced filtering, auto-refresh, and JSON tooling
 
 ### ✍️ Writing & talks
 
